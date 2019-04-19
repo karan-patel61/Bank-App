@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <string-array name="service">
+        <item>DEPOSIT</item>
+        <item>WITHDRAW</item>
+        <item>TRANSFER</item>
+    </string-array>
+</resources>
